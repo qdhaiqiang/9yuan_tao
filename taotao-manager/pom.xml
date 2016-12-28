@@ -33,7 +33,7 @@
 				<configuration>
 					<port>8080</port>
 					<path>/</path>
-					<url>http://192.168.25.135:8080/manager/text</url>
+<!-- 					<url>http://192.168.25.135:8080/manager/text</url> -->
 					<username>tomcat</username>
 					<password>tomcat</password>
 				</configuration>
