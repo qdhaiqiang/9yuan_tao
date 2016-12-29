@@ -1,1 +1,12 @@
-/target/
+*.iml
+*.idea/
+*.log
+*.project
+*.classpath
+*.settings/
+*target/
+*.orig
+/spy.log
+*.reviewboardrc
+.reviewboardrc
+rebel.xml
